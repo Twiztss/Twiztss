@@ -2,109 +2,97 @@
 <!-- It's not completed yet, please don't look :P. -->
 
 <!-- ![Header](imageurl) -->
-
 <a name = "top-page"></a>
+# Paritch Kaewpradab
 
-<div align = "center">
-  <h1> Paritch Kaewpradab </h1>
-  <p> Biomedical Engineer aspsiring to be <b><i> [Full stack developer]. </i></b> </p>
-  <p> Also interested ML/ Data visualization <b><i> (In progress). </b></i> </p>
-  <a href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&themeRefresh=1"> <i><b> My portfolio (Placeholder link) </b></i> </a>
-</div>
+> Biomedical Engineering student aspiring to be a **Full Stack Developer**  
+> Also exploring **Machine Learning** and **Data Visualization**  
+> [Portfolio (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&themeRefresh=1)
 
+## 📚 Table of Contents
+- [About Me](#about-me)
+- [Objective](#objective)
+- [Skills](#skills)
+- [Completed Projects](#completed-projects)
+- [Ongoing Projects](#ongoing-projects)
 
+<a name = "about-me"></a>
+## About Me
+I’m an engineering student with a interests in **software development** and **UI/UX design**.  
+I enjoy combining analytical thinking with creative design to build applications that are both functional and user-friendly.
 
-<details>
-  <summary>Table of Contents 📚</summary>
-  <ol>
-    <li><a href="#about_me"> About Me </a></li>
-    <li><a href="#objective"> Objective </a></li>
-    <li><a href="#skills"> Skills </a></li>
-    <li><a href="#completed_projects"> Completed Projects </a></li>
-    <li><a href="#ongoing_projects"> Ongoing Projects </a></li>
-    <li><a href="#misc"> Misc </a></li>
-  </ol>
-</details>
-
-<div>
-  <h2> Things to-be-added 🔨</h2>
-  <ul>
-    <li> <b> About Me 👋 </b> </li>
-    <li> Objectives 🔰 </li>
-    <li> Skills ♦️ </li>
-    <li> Completed Projects ✈️ </li>
-    <li> Ongoing Projects 🚀 </li>
-    <li> Misc ⚠️ </li>
-    
-  </ul>
-
-</div>
-
-<a name = "about_me"></a>
-
-## About Me 👋
-<div style="display: flex; align-items: center;">
-  <img src= "https://i.pinimg.com/originals/2a/e4/80/2ae480f827920b1fcb1caeb22b95f180.gif" width="250" height="auto" />
-  <br> <p> Biomedical Engineering students with background knowledge of Front-End Development and UI/UX Design. Using creativity and adaptibility to its fullest to create solutions suitable to all needs and purposes.</p>
-  <ul>
-    <li>Currently exploring computer vision and machine learning.</li>
-    <li>Trying to gain deeper understanding in UX research approach.</li>
-  </ul>
-</div>
+- Currently exploring **computer vision**, **web application architecture**, and **user-centered design**, aiming to develop tools that bridge technology and real-world usability.
 
 <a name = "objective"></a>
-## Objectives 🔰
-Currently trying to improve existing knowledge and explore different field of interests.
-- <b>Frontend Development</b> : Being proficient in designing responsive interfaces using different types of framework, library and design rules suitable for diffrent user flows.
-- <b>Backend Developnent</b> : Able to utilize backend frameworks for managing web application and systems such as API routing, database management, and security authentication.
-- <b>Machine Learning</b> : Currently experimenting on algorithms, libraries, and architecture to predict and interpret data in deeper details.
-<p align="right">[<a href="#top-page"> Return to top </a>]</p>
+## Objective
+Improving technical depth while exploring new development fields assisting in designing wide ranges of applications.
+
+- **Frontend Development:** Building dynamic and responsive UIs with a focus on accessibility and design systems.  
+- **Backend Development:** Developing secure and efficient APIs, managing databases, and implementing authentication systems.  
+- **Machine Learning:** Exploring applied AI for automation, pattern recognition, and intelligent data analysis.
 
 <a name = "skills"></a>
-## Skills ♦️
+## Skills️
+### Languages
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black)](https://www.w3.org/TR/CSS/#css)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black)](https://www.java.com/)
+[![SQL](https://img.shields.io/badge/SQL-%2300758F?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=black)](https://www.w3schools.com/sql/)
+[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black)](https://www.php.net/)
+
+### Frameworks & Libraries
 [![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAF7&labelColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) <br>
-[![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=black)](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black)](https://www.python.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)](https://nodejs.org/en)
+[![Express.js](https://img.shields.io/badge/Express.js-%23000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)](https://expressjs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black)](https://tailwindui.com/)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=black)](https://www.php.net/)
+[![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=black)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white&labelColor=black)](https://flask.palletsprojects.com/)
+
+### Tools
 [![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white&labelColor=black)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=black)](https://www.docker.com/)
 [![Figma](https://img.shields.io/badge/Figma-%23A259FF?style=for-the-badge&logo=figma&logoColor=white&labelColor=black)](https://www.figma.com/)
 
 <p align="right">[<a href="#top-page"> Return to top </a>]</p>
 
-<a name = "completed_projects"></a>
-## Completed Projects ✈️
-In-progress. Just start adding titles and topics.
+
+<a name = "completed-projects"></a>
+## Completed Projects
+
+### **1. Subscription Tracking API** ([Link](https://github.com/Twiztss/subtrack-api))
+A RESTful backend service for managing subscription lifecycles.  
+Includes JWT-based authentication, automated email notifications, and renewal workflows.  
+**Tech Stack:** `Node.js`, `Express.js`, `MongoDB`, `JWT`  
+**Tags:** `Backend`, `API`, `Authentication`
+
+### **2. Full-Stack Event Booking Platform** ([Link](pass-point.vercel.app))
+A modern Next.js web app that lets users browse, filter, and book event tickets in real time.  
+Implements secure checkout flows and payment integration with role-based access control.  
+**Tech Stack:** `Next.js`, `Tailwind CSS`, `MongoDB`  
+**Tags:** `Full-Stack`, `Web App`, `Next.js`
+
+### **3. React Native Ride Sharing App** ([Link](https://github.com/Twiztss/blazt/tree/master/app))
+Cross-platform mobile app supporting dynamic map-based tracking for riders and drivers.  
+Built with reusable modular components for future expansion.  
+**Tech Stack:** `React Native`, `Expo`, `Google Maps API`, `Tailwind CSS`, `PostgreSQL`  
+**Tags:** `Mobile App`, `React Native`, `Maps`
+
+### **4. Laptop Website** ([Link](https://laptop-website-50znke3xq-twiztss-projects.vercel.app))
+Laptop e-commerce website with responsive design along with transitions. 
+
+**Tech Stack:** `React`, `React Router`, `Tailwind CSS`  
+
 <p align="right">[<a href="#top-page"> Return to top </a>]</p>
 
-<a name = "ongoing_projects"></a>
-## Ongoing Projects 🚀
+<a name = "ongoing-projects"></a>
+## Ongoing Projects
 - Fronend Design : Collection of designs from [Frontend Mentor](https://www.frontendmentor.io/) using various design techniques and themes.
-- Laptop Website : Modern design for laptop websites including landing page, sign-up/ log-in page, product page, checkout page, and neccessary UIs.
 <p align="right">[<a href="#top-page"> Return to top </a>]</p>
-
-<a name = "misc"></a>
-## Misc ⚠️
-<div style="display: flex; align-items: center;">
-  <img src= "https://giffiles.alphacoders.com/220/220252.gif" width="250" height="auto" />
-  <p> <i><b> "Thank you for visiting my README", appreciated it. </b></i></p>
-  <ul>
-  <li> Trying to add files to Github but I scattered all the files across computers/laptops/drives and couldn't find it </li>
-  <li> Trying to understand the fact that using new libraries means reading tons of documents. </li>
-  <li> Don't use redundant class name labeling, it's harder to adjust styling later on.</li>
-</ul>
-</div>
-<p align="right">[<a href="#top-page"> Return to top </a>]</p>
-
-
-
-
 
 <!--
 **Twiztss/Twiztss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
